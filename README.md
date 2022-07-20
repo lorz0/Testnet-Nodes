@@ -1,0 +1,1 @@
+katılmak istediğim testnetler
