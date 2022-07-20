@@ -1,1 +1,1 @@
-katılmak istediğim testnetler
+## katılmak istediğim testnetler
